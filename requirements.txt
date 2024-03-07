@@ -1,4 +1,4 @@
-os
+python==3.11.7
 re==2023.12.25
 pandas==2.1.4
 streamlit==1.29.0
