@@ -5,7 +5,7 @@ import streamlit as st
 from openai import OpenAI
 from pymongo import MongoClient
 from pyspark.sql import SparkSession
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-TpBf......................."
 
 # Connection details
 host = 'srvr1px.cyberads.io'
