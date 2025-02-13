@@ -8,10 +8,10 @@ from pyspark.sql import SparkSession
 os.environ["OPENAI_API_KEY"] = "sk-TpBf......................."
 
 # Connection details
-host = 'srvr1px.cyberads.io'
-port = 27017
-username = 'cmrslpx1'
-password = 'y@PdjJF#)Gj&7dC'
+host = 'xyz.io'
+port = 00000
+username = 'xyz'
+password = '###############'
 auth_source = 'admin'
 client = MongoClient(host=host, port=port, username=username, password=password, authSource=auth_source)
 
